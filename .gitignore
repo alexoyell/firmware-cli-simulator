@@ -1,0 +1,9 @@
+*.exe
+*.o
+*.out
+
+build/
+tests/test_uart
+tests/test_shell
+tests/test_ring_buffer
+firmware.exe
